@@ -1,4 +1,4 @@
-<!doctype html>
+
 <meta charset = "utf-8">
 <body>
 	<div id = "myRect" style = transition: all 1s"'>
